@@ -262,6 +262,9 @@ export default function TodoList() {
         </Alert>
       )}
 
+      {/* API URL debug info */}
+     
+
       {/* Add todo form */}
       <div className="mb-6">
         <div className="flex gap-2 mb-4">
